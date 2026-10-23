@@ -1,0 +1,1 @@
+# cw-macd-automation-project
